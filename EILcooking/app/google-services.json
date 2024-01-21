@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "791378396122",
+    "project_id": "eilcooking",
+    "storage_bucket": "eilcooking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791378396122:android:ba6e892f6160bee25af6e3",
+        "android_client_info": {
+          "package_name": "com.example.eilcooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791378396122-9qukr6k79dn43stunjmvrc24fahsujc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eilcooking",
+            "certificate_hash": "b39ae16a1e1d24dfe370494efee69298f29c9b7c"
+          }
+        },
+        {
+          "client_id": "791378396122-eej6lelr7nq3bj8o6m4ola5ka6lso4il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYM1-Z0f9ue_3qtxjM8UJaLjR_Qlebuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791378396122-eej6lelr7nq3bj8o6m4ola5ka6lso4il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
